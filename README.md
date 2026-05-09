@@ -33,6 +33,17 @@ Webová aplikace postavená na výsledcích tohoto výzkumu je dostupná v repoz
 
 ## Spuštění
 
+### S Conda (doporučeno)
+
+```bash
+conda create -n cry-analysis python=3.11
+conda activate cry-analysis
+pip install -r requirements.txt
+jupyter notebook
+```
+
+### Bez Conda
+
 ```bash
 pip install -r requirements.txt
 jupyter notebook
