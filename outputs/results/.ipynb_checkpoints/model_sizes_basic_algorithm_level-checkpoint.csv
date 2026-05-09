@@ -1,0 +1,4 @@
+﻿Model,Příznaková sada,Scénář,Velikost (.joblib) [KB]
+Logistic Regression,basic,algorithm_level,3.7
+SVM RBF,basic,algorithm_level,102.05
+Random Forest,basic,algorithm_level,709.78
